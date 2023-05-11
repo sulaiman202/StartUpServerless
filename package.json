@@ -1,0 +1,19 @@
+{
+  "name": "startupserverless",
+  "version": "1.0.0",
+  "description": "- create .gitignore  touch .gitignore  - initialize package json npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulaiman202/StartUpServerless.git"
+  },
+  "author": "sulaiman jrar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sulaiman202/StartUpServerless/issues"
+  },
+  "homepage": "https://github.com/sulaiman202/StartUpServerless#readme"
+}

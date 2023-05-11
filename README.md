@@ -1,1 +1,2 @@
 - create .gitignore  touch .gitignore 
+- initialize package json npm init
