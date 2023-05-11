@@ -1,2 +1,3 @@
 - create .gitignore  touch .gitignore 
 - initialize package json npm init
+- npm i -D typescript

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sulaiman202/StartUpServerless/issues"
   },
-  "homepage": "https://github.com/sulaiman202/StartUpServerless#readme"
+  "homepage": "https://github.com/sulaiman202/StartUpServerless#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
 }
