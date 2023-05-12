@@ -1,3 +1,7 @@
 - create .gitignore  touch .gitignore 
 - initialize package json npm init
-- npm i -D typescript
+- npm i -D typescript  @types/node  ts-node
+- npm install -g typescript
+- tsc --init to generate tsconfig.json
+- install Es Lint plugin for vs
+-  npm init @eslint/config
