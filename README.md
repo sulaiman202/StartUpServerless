@@ -5,3 +5,8 @@
 - tsc --init to generate tsconfig.json
 - install Es Lint plugin for vs
 -  npm init @eslint/config
+- install Prettier - Code formatter plugin
+- touch .eslint
+- npm install --save-dev --save-exact prettier
+- touch .prettierrc
+-  npm install --save-dev eslint-config-prettier eslint-plugin-prettier
