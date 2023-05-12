@@ -4,9 +4,11 @@
 - npm install -g typescript
 - tsc --init to generate tsconfig.json
 - install Es Lint plugin for vs
--  npm init @eslint/config
+- npm install --save-dev eslint
+-  npm init @eslint/config   choose json tye and enforce style check and typescript
 - install Prettier - Code formatter plugin
 - touch .eslint
 - npm install --save-dev --save-exact prettier
 - touch .prettierrc
--  npm install --save-dev eslint-config-prettier eslint-plugin-prettier
+-  npm i -D eslint-plugin-import eslint-import-resolver-typescript
+- npm install --save-dev tsconfig-paths
